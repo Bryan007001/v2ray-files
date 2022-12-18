@@ -1,0 +1,3 @@
+1. 需要手动修改v2ray2.sh里面43开头的IP地址，改为实际的服务器IP
+2. 将usr-bin-v2ray的文件复制到/usr/bin/v2ray，并授予755权限
+3. 执行bash v2ray2.sh命令
